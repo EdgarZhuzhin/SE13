@@ -8,10 +8,8 @@ Functional Requirements
   match in order to get to the next page.
 * Sign up page: Username field accepts alphanumerical characters and symbols, and it has to be at least 2 characters long.     Password and Repeat password fields accept also alphanumerical characters and symbols and theyhave to match.     E-mail field accepts alphanumerical characters and some symbols, has to have a @-sign after which comes the domain name.      First name and Last name only accept alphabetical characters.    Year of birth accepts only numerical values (DD-MM-YYYY).      Study group is an optional field, and it accepts numerical and alphabetical characters.     Teacher/Student is also optional and it has radio buttons.     
 * Main page: redirects the user to several pages by clicking the icon.
-* Map screen: allows user to zoom in and out in the map, and change the view either by clicking the buttons "+"/"-" or by
-              controlling the map with fingers.
-* People list page: by clicking red or green circles, the user defines weather the person shown in the list is a friend
-                  or foe.
+* Map screen: allows user to zoom in and out in the map, and change the view either by clicking the buttons "+"/"-" or by controlling the map with fingers.
+* People list page: by clicking red or green circles, the user defines weather the person shown in the list is a friend or foe.
 * Search page: field accepts only alphabetical characters.
 * Settings page: controlled by click
 * Edit account page: First name and last name are unchangeable after sign up. Check the other fields from sign up page.
