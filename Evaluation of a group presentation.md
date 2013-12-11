@@ -7,7 +7,7 @@
 ---
 #### Presentation review
 
-**Link to the slideset:** \<insert URL here\>
+**Link to the slideset:** http://prezi.com/kayrld6dnvat/comestu-requirements-of-the-indoor-positioning-application/?utm_campaign=share&utm_medium=copy
 
 * Did you get overall view of the product?
   Yes
