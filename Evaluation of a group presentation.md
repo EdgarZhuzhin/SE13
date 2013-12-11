@@ -32,18 +32,18 @@
 
 **Parts to review:**
 
-1. **introduction (=first section) + project management (=last section)**
+1. **introduction (=first section) + project management (=last section)**  
   Very thorough introduction, maybe even too thorough.
-1. **use cases**
+1. **use cases**  
   Good user definitions and use case diagram. Well thought scenarios that could happen.
   Flowchart could've had a nicer structure. A little overwhelming as is.
-1. **system overview**
+1. **system overview**  
   Too many modules, not all high level main modules.
   The ones listed are well explained.
-1. **requirements, functional & non-functional**
+1. **requirements, functional & non-functional**  
   Functional requirements take into consideration everything possible.
   More thought into non-functional requirements.
-1. **user interface**
+1. **user interface**  
   Very nice interface sketches.
   The map doesn't show up very well from the dark background
 
