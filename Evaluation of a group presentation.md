@@ -20,7 +20,8 @@
  
 * Additional notes and comments
   Very good mock-ups. The idea of the application is good
----
+
+
 #### Document review
 
 **Link to the documentation:** https://github.com/julia-sulina/GroupProject/blob/master/SRS.md
