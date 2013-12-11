@@ -16,10 +16,10 @@
   The slideset was good and clear.
 
 * Was the presentation fluent? Body language? Language, quality of the speech?
-  The presentation was fluent,
+  The presentation was fluent. Body language was good. You could have talked a bit more calmer.
  
 * Additional notes and comments
-
+  Very good mock-ups. The idea of the application is good
 ---
 #### Document review
 
