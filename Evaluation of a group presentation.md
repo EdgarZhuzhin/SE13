@@ -1,6 +1,6 @@
 ### Evaluate the group presentation and documentation
 
-**Group name:** \<write here the group name that you are reviewing\>
+**Group name:** COMESTU
 
 **Reviewers:** Rosa Suominen, Susannan Karttunen, Henrik Reponen, Joonas Tuominen
 
@@ -10,14 +10,20 @@
 **Link to the slideset:** \<insert URL here\>
 
 * Did you get overall view of the product?
+  The slideset was good
+
 * How was the slideset?
+
+
 * Was the presentation fluent? Body language? Language, quality of the speech?
+
+ 
 * Additional notes and comments
 
 ---
 #### Document review
 
-**Link to the documentation:** \<insert URL here\>
+**Link to the documentation:** https://github.com/julia-sulina/GroupProject/blob/master/SRS.md
 
 **Review the following parts of the documentation.**<BR/>
 **For each section / part, describe the following:**
