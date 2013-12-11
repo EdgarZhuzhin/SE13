@@ -2,7 +2,7 @@
 
 **Group name:** \<write here the group name that you are reviewing\>
 
-**Reviewers:** \<write here names of the reviewers\>
+**Reviewers:** Rosa Suominen, Susannan Karttunen, Henrik Reponen, Joonas Tuominen
 
 ---
 #### Presentation review
