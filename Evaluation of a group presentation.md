@@ -7,24 +7,22 @@
 ---
 #### Presentation review
 
-**Link to the slideset:** http://prezi.com/kayrld6dnvat/comestu-requirements-of-the-indoor-positioning-application/?utm_campaign=share&utm_medium=copy
-
-* Did you get overall view of the product?
+**Link to the slideset:** Click [here](http://prezi.com/kayrld6dnvat/comestu-requirements-of-the-indoor-positioning-application/?utm_campaign=share&utm_medium=copy "Slideset").
+* Did you get overall view of the product?  
   Yes
 
-* How was the slideset?
+* How was the slideset?  
   The slideset was good and clear.
 
-* Was the presentation fluent? Body language? Language, quality of the speech?
+* Was the presentation fluent? Body language? Language, quality of the speech?  
   The presentation was fluent. Body language was good. You could have talked a bit more calmer.
  
-* Additional notes and comments
+* Additional notes and comments  
   Very good mock-ups. The idea of the application is good
-
 
 #### Document review
 
-**Link to the documentation:** https://github.com/julia-sulina/GroupProject/blob/master/SRS.md
+**Link to the documentation:** Click [here](https://github.com/julia-sulina/GroupProject/blob/master/SRS.md "Documentation").
 
 **Review the following parts of the documentation.**<BR/>
 **For each section / part, describe the following:**
