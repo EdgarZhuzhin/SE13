@@ -10,13 +10,13 @@
 **Link to the slideset:** \<insert URL here\>
 
 * Did you get overall view of the product?
-  The slideset was good
+  Yes
 
 * How was the slideset?
-
+  The slideset was good and clear.
 
 * Was the presentation fluent? Body language? Language, quality of the speech?
-
+  The presentation was fluent,
  
 * Additional notes and comments
 
